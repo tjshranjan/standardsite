@@ -21,13 +21,13 @@ h1{
 }
 .bottom-cloud{
   position:absolute;
-  left: 400px;
-  top:300px;
+  left: 24em;
+  top:18em;
 }
 .top-cloud{
   position: absolute;
-  right: 400px;
-  top:50px;
+  right: 24em;
+  top:3em;
 }
 #profile{
   height: 300px;
@@ -44,3 +44,4 @@ hr{
   border-width:10px;
   width: 7%;
 }
+
