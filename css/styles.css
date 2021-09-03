@@ -1,0 +1,46 @@
+.top-container{
+  background-color: #E4F9F5;
+  position: relative;
+  padding-top: 100px;
+}
+.middle-container{
+  background-color: #E4F9F5;
+}
+.bottom-container{
+  background-color: #E4F9F5;
+}
+body{
+  margin: 0;
+  text-align: center;
+
+}
+h1{
+  font-size: 5.60em;
+  margin-top: 0;
+  font-family :'Sacramento',Arial;
+}
+.bottom-cloud{
+  position:absolute;
+  left: 400px;
+  top:300px;
+}
+.top-cloud{
+  position: absolute;
+  right: 400px;
+  top:50px;
+}
+#profile{
+  height: 300px;
+  width: 300px;
+  border-radius: 100%;
+}
+.imagestyle{
+    border-radius: 100%;
+}
+hr{
+  border-style:none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width:10px;
+  width: 7%;
+}
